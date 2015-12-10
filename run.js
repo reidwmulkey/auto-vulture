@@ -3,14 +3,14 @@ var robot = require("robotjs");
 //X & Y position of your mouse to click the "Join Queue" button. 
 //Aim for the top of the button so you avoid pressing the cancel button
 var joinQueue = {
-	x: 897,
-	y: 812
+	x: <insert your x value>,
+	y: <insert your y value>
 };
 
 //X & Y position of your mouse to click the "Leave Match" button at the end of the match
 var leaveMatch = {
-	x: 486,
-	y: 833
+	x: <insert your x value>,
+	y: <insert your y value>
 };
 
 setInterval(function(){

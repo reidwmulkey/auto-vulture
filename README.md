@@ -31,7 +31,7 @@ Open the file ```run.js``` with a text editor and input your mouse coordinates f
 	};
 ```
 
-and then save your changes.
+you can enter ```ctrl + c``` twice to stop the program, and then save your changes.
 
 Running the program
 ===================
