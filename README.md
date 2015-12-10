@@ -2,7 +2,7 @@
 
 ![vulture mount](http://i.kinja-img.com/gawker-media/image/upload/s--IItwXgZL--/c_scale,fl_progressive,q_80,w_800/1441735612495444292.png)
 
-auto-vulture is designed to eliminate the grind of getting your vulture mount in Heroes of the Storm. For whatever reason, the AI in training mode will win regardless of you participating, and you are not dropped for going AFK. You earn about 130k experience for each match, so this is just a simple mouse pointer bot to re-queue training matches all night.
+auto-vulture is designed to eliminate the grind of getting your vulture mount in Heroes of the Storm. For whatever reason, the AI in training mode will win regardless of you participating, and you are not dropped for going AFK. You earn about 130k experience for each match, so this is just a simple mouse pointer bot to re-queue training matches all night. It took me about a day to get my mount.
 
 Environment Setup
 =================
