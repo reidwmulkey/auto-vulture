@@ -4,14 +4,16 @@ auto-vulture is designed to eliminate the grind of getting your vulture mount in
 
 Environment Setup
 =================
-You need to download NPM in order to run the application. You can download it here (http://nodejs.org/download/)
+You need to download NodeJS in order to run the application. You can download it here (https://nodejs.org/en/download/)
 
 Download a zip of this repository and extract to your computer.
 
 Program Setup
 ==============
+
 Navigate to the extracted folder in command line or terminal and type the following:
 ```
+	npm install
 	node find
 ```
 
